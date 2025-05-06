@@ -24,7 +24,8 @@ The primary goal of this project is to analyze and visualize COVID-19 data to ga
 ## Files 📂
 
 * `owid-covid-data.csv`: The COVID-19 dataset used for analysis.
-* `insights.ipynb`: A Jupyter Notebook containing the Python code for data analysis and visualization.
+* `insights.ipynb`: A Jupyter Notebook containing the Python code for data analysis and visualization for all countries.
+* `main.ipynb`: A Jupyter Notebook containing the Python code for data analysis and visualization - allows you to input the country you want to see its data.
 * `README.md`: This file, providing an overview of the project.
 
 ## Dependencies 🛠️
@@ -46,7 +47,7 @@ pip install pandas matplotlib seaborn notebook
 - Clone the repository:
 
 ```bash
-git clone ""
+git clone "https://github.com/charlesricha/Final-COVID-DATA-Project.git"
 ```
 
 - Navigate into the project directory:
@@ -59,6 +60,11 @@ cd Final-COVID-DATA-Project
 
 ```bash
 pip install pandas matplotlib seaborn
+```
+- Run jupyter notebook
+
+```bash
+jupyter notebook
 ```
 
 ## Key Insights from COVID-19 Data Analysis 🔍
