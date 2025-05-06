@@ -1,5 +1,9 @@
 # Final-COVID-DATA-Project 🌍🦠
-    ![screenshot](./Command-Line.PNG)
+
+This project provides a comprehensive analysis of COVID-19 data, focusing on infection trends, mortality rates, and vaccination progress across different countries. By leveraging Python libraries for data visualization, it uncovers key insights and patterns to better understand the global impact of the pandemic.
+
+![screenshot](./Command-Line.PNG)
+
 ## Table of Contents 📚
 
 1. [Project Description 📊](#project-description)
