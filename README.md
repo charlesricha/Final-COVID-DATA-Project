@@ -34,7 +34,7 @@ The project requires the following Python libraries:
 To install these dependencies, you can use `pip`:
 
 ```bash
-pip install pandas matplotlib seaborn
+pip install pandas matplotlib seaborn notebook
 ```
 
 ## Setup
